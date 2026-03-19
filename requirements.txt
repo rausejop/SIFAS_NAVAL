@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+# Procesamiento de datos principal
+pandas>=2.0.0
+# Soporte para exportación en Markdown
+tabulate>=0.9.0
+# Soporte para exportación en XML
+lxml>=4.9.0
+# Registro estructurado de logs
+loguru>=0.7.2

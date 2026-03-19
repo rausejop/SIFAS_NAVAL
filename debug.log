@@ -1,0 +1,73 @@
+2026-03-19 23:55:20.196 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:20.444 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:20.445 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:27.375 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:27.375 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:27.383 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:27.383 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:27.384 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:27.384 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:28.287 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:28.287 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:28.287 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:28.294 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:28.294 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:28.294 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:28.295 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:28.295 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:28.295 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:32.462 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:32.462 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:32.462 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:32.462 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:32.469 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:32.469 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:32.469 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:32.469 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:32.470 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:32.470 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:32.470 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:32.470 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:34.080 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:34.080 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:34.080 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:34.080 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:34.080 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:34.087 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:34.087 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:34.087 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:34.087 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:34.087 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:34.088 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:34.088 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:34.088 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:34.088 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:34.088 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:34.089 | INFO     | __main__:<module>:105 - Iniciando generación de 100 buques.
+2026-03-19 23:55:34.089 | INFO     | __main__:<module>:105 - Iniciando generación de 100 buques.
+2026-03-19 23:55:34.089 | INFO     | __main__:<module>:105 - Iniciando generación de 100 buques.
+2026-03-19 23:55:34.089 | INFO     | __main__:<module>:105 - Iniciando generación de 100 buques.
+2026-03-19 23:55:34.089 | INFO     | __main__:<module>:105 - Iniciando generación de 100 buques.
+2026-03-19 23:55:34.093 | SUCCESS  | __main__:<module>:144 - Generación completada: 100 buques registrados.
+2026-03-19 23:55:34.093 | SUCCESS  | __main__:<module>:144 - Generación completada: 100 buques registrados.
+2026-03-19 23:55:34.093 | SUCCESS  | __main__:<module>:144 - Generación completada: 100 buques registrados.
+2026-03-19 23:55:34.093 | SUCCESS  | __main__:<module>:144 - Generación completada: 100 buques registrados.
+2026-03-19 23:55:34.093 | SUCCESS  | __main__:<module>:144 - Generación completada: 100 buques registrados.
+2026-03-19 23:55:53.037 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:53.037 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:53.037 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:53.037 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:53.037 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:53.037 | INFO     | __main__:<module>:12 - Aplicación iniciada correctamente.
+2026-03-19 23:55:53.048 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:53.048 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:53.048 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:53.048 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:53.048 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:53.048 | INFO     | __main__:load_template:88 - Intentando cargar plantilla Format.txt
+2026-03-19 23:55:53.049 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:53.049 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:53.049 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:53.049 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:53.049 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
+2026-03-19 23:55:53.049 | DEBUG    | __main__:load_template:92 - Format.txt cargado con éxito.
